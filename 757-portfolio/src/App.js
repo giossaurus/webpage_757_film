@@ -13,7 +13,7 @@ class App extends React.Component {
       ],
       home: {
         title: 'Seja bem vindo',
-        subtitle: 'Texto menor',
+        subtitle: 'Conheça nossos serviços',
         text: 'texto teste'
       },
       sobre: {
