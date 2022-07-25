@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 class App extends React.Component {
-  constructor (props){
+  constructor (props){ 
     super(props);
     this.state = {
       title: '757 film',
@@ -12,7 +12,7 @@ class App extends React.Component {
         { title: 'Contato', path: '/contato' }
       ],
       home: {
-        title: 'Texto qualquer 1',
+        title: 'Seja bem vindo',
         subtitle: 'Texto menor',
         text: 'texto teste'
       },
